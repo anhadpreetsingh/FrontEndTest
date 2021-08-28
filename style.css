@@ -7,7 +7,24 @@ body{
 }
 h1{
     border-style: solid;
-    width: 500px;
+    width: 150px;
     margin: auto;
     text-align: center;
+}
+
+.container{
+    margin: 10px auto;
+    border-style: solid;
+    width: 70%;
+    height: fit-content;
+
+}
+span{
+    margin: 50px;
+    font-size: 30px;
+    
+}
+.contentcontainer{
+    border-style: dashed;
+    margin: 10px;
 }
